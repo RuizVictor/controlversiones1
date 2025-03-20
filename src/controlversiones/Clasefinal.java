@@ -8,11 +8,6 @@ package controlversiones;
  *
  * @author dam
  */
-public class Segunda {
-    public void nada(){
-        System.out.println("Te estoy modificaqndo");
-    }
-    public void exx(){
-        System.out.println("Estoy en la rama final");
-    }
+public class Clasefinal {
+    
 }
